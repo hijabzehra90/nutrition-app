@@ -1,0 +1,8 @@
+# Node modules and environment files
+node_modules/
+.env
+# Docker-related files
+docker-compose.yml
+Dockerfile
+# Build outputs (when you build React for production)
+build/
