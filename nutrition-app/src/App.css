@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 10px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #f4f4f4;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+button {
+  background-color: #008cba;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005f5f;
+}
+
+h3 {
+  margin-top: 20px;
+}
+/* NEW: Styling for RecipeDetails */
+h4 {
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  padding: 5px 0;
+}
